@@ -27,5 +27,4 @@ public class BumpApiManager {
 	public void setApi(IBumpAPI api) {
 		this.api = api;
 	}
-	
 }
