@@ -19,7 +19,7 @@ import com.voyagerinnovation.smiwallet.R;
 import com.voyagerinnovation.smiwallet.constants.Broadcasts;
 import com.voyagerinnovation.smiwallet.interfaces.BumpInterface;
 import com.voyagerinnovation.smiwallet.managers.BumpApiManager;
-import com.voyagerinnovation.smiwallet.services.BumpReceiver;
+import com.voyagerinnovation.smiwallet.receivers.BumpReceiver;
 import com.voyagerinnovation.smiwallet.services.BumpService;
 import com.voyagerinnovation.smiwallet.utilities.BumpUtils;
 import com.voyagerinnovation.smiwallet.utilities.Logger;

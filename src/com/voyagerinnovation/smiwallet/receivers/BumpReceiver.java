@@ -1,4 +1,4 @@
-package com.voyagerinnovation.smiwallet.services;
+package com.voyagerinnovation.smiwallet.receivers;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
